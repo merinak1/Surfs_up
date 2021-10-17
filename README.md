@@ -5,7 +5,6 @@ Module 9 Challenge - Python and SQLite
 ## *Overview of the analysis:*
 
 The purpose of the Surf up Analysis to determine the viability of surf and ice-cream shop business in Oahu,HI by analazing weather trend in June and December. The temperature trends in June and Decemeber provide key insights on sustainability of surf and ice-cream shop business year round. 
- 
 ## *Results*
 
 Below is the snapshot of June and Decemeber temperature Summary Statistics: 
